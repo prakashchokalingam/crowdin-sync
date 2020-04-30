@@ -1,5 +1,7 @@
 {
   "hello": "hallo",
   "world": "Welt",
-  "new": "key"
+  "new": "key",
+  "demo": "demo",
+  "test": "test"
 }
